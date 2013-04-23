@@ -28,3 +28,6 @@ c)启动storm 代码
 </br>storm jar target/storm-product-0.1-jar-with-dependencies.jar realtime.MainTopology storm_product 
 
 
+其他 参见: helper/实时redis相关总结.docx
+
+
